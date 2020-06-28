@@ -2,8 +2,8 @@
 Algorithms for classifying text or document into categories.
 
 ## Setup
-We'll need,
-[Python](https://www.python.org/): To run our script
+
+[Python](https://www.python.org/): To run our script  <br/>
 [pip](https://pip.pypa.io/en/stable/): Necessary to install Python packages
 
 **Open your terminal and follow the below steps,**
@@ -22,8 +22,7 @@ pip install virtualenv
 virtualenv mypython
 ~~~~
 
-* Activate the environment, 
-Mac OS / Linux: 
+* Activate the environment, <br /> Mac OS / Linux: 
 ~~~~
 source mypython/bin/activate
 ~~~~
