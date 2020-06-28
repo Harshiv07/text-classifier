@@ -11,31 +11,33 @@ Algorithms for classifying text or document into categories.
 ~~~~
 git clone https://github.com/Harshiv07/text-classifier.git
 ~~~~
-
+<br /> <br />
 * Setup virtual environment, 
 ~~~~
 pip install virtualenv
 ~~~~
-
+<br /> <br />
 * mypython is the name of your virtual environment,
 ~~~~
 virtualenv mypython
 ~~~~
+<br />  <br />
 
-* Activate the environment, <br /> Mac OS / Linux: 
-~~~~
-source mypython/bin/activate
-~~~~
-Windows: 
-~~~~
-mypthon\Scripts\activate
-~~~~
-
-
+* Activate the environment,   
+  * Mac OS / Linux: 
+  ~~~~
+  source mypython/bin/activate
+  ~~~~
+  * Windows:
+  ~~~~
+  mypthon\Scripts\activate
+  ~~~~
+<br /> <br />
 * Install these packages,
 ~~~~
 pip install numpy
 pip install sklearn
 ~~~~
-Numpy: Useful mathematical functions
-Sklearn: Machine learning tools for python
+<br /> <br />
+- Numpy: Useful mathematical functions
+- Sklearn: Machine learning tools for python
